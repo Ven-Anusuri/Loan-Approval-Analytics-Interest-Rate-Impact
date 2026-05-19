@@ -43,11 +43,11 @@ Despite the Bank of Canada rate swinging from **0.3% (COVID)** to **4.7% (2023 h
 
 The Power BI dashboard has three pages:
 
-![Executive Overview](screenshots/01_executive_overview.png)
+![Executive Overview](01_executive_overview.png)
 
-![Borrower Profile](screenshots/02_borrower_profile.png)
+![Borrower Profile](02_borrower_profile.png)
 
-![Interest Rate Impact](screenshots/03_interest_rate_impact.png)
+![Interest Rate Impact](03_interest_rate_impact.png)
 
 ---
 
