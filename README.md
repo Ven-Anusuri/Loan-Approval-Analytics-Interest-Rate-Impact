@@ -69,7 +69,6 @@ The Power BI dashboard has three pages:
 
 ---
 
-## Repository Structure
 
 ## Repository Structure
 
