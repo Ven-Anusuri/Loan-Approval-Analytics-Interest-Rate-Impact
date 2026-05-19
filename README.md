@@ -70,3 +70,15 @@ The Power BI dashboard has three pages:
 ---
 
 ## Repository Structure
+
+## Repository Structure
+
+```
+loan-approval-analytics/
+├── data/          # Raw and cleaned datasets
+├── sql/           # SQL queries + SQLite database
+├── notebooks/     # Python data cleaning (Colab)
+├── powerbi/       # Dashboard file (.pbix) + PDF export
+├── screenshots/   # Dashboard page images
+└── README.md
+```
