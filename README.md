@@ -1,6 +1,6 @@
 # Loan Approval Analytics & Interest Rate Impact
 
-Analyzing what drives loan approval decisions, and whether Bank of Canada interest rates influence approval rates (2018–2026). Built with **Python, SQL, and Power BI**.
+Analyzing what drives loan approval decisions, and whether Bank of Canada interest rates influence approval rates (2018–2026) and which specific group has to be focused to increase business. Built with **Python, SQL, and Power BI**.
 
 ---
 
