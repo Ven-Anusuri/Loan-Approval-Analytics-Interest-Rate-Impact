@@ -6,12 +6,11 @@ Analyzing what drives loan approval decisions, and whether Bank of Canada intere
 
 ## Project Overview
 
-This project investigates two questions a Canadian bank's lending team would care about:
+A bank's lending team faces two questions it can't answer by intuition: which applicants are worth the underwriting effort, and should approval volumes be expected to fall as the Bank of Canada raises rates? Getting the first wrong wastes underwriting capacity on applications that will never clear the bar; getting the second wrong means adjusting lending strategy to a macro signal that may not matter.
+This project answers both using ~5,000 loan applications joined with Bank of Canada overnight rate data (2018–2026):
 
-1. **What borrower characteristics drive loan approval?**
-2. **Does the macroeconomic interest rate environment affect approval rates?**
-
-The analysis covers ~5,000 loan applications joined with historical Bank of Canada overnight rate data.
+Who to focus on: Approval follows a "two-gate system" — employment status and credit score. Applicants must clear both gates; loan amount is irrelevant to the decision. The growth segment is employed applicants with good credit (~72% approval), where acquisition spend is justified.
+Whether to fear the rate cycle: Approval rates held a narrow 21–25% band while the overnight rate swung from 0.3% to 4.7%. Borrower fundamentals beat macro conditions — lending strategy should stay anchored on applicant quality, not the rate environment.
 
 ---
 
