@@ -4,6 +4,17 @@ Analyzing what drives loan approval decisions, and whether Bank of Canada intere
 
 ---
 
+## 🎯 Problem Statement
+
+A bank's lending team is flying blind on two decisions:
+
+1. **Underwriting focus** — With limited capacity, which applicants deserve the effort? Spending it on applications that will never clear the bar wastes money.
+2. **Rate-cycle strategy** — As the Bank of Canada raises rates, should the team brace for falling approvals — or is that fear misplaced?
+
+**What I deliver:** a data-backed answer to both — a two-gate approval model (employment + credit score) that pinpoints the ~72%-approval growth segment, and evidence that approval rates are driven by borrower fundamentals, not the rate environment.
+
+---
+
 ## Project Overview
 
 A bank's lending team faces two questions it can't answer by intuition: which applicants are worth the underwriting effort, and should approval volumes be expected to fall as the Bank of Canada raises rates? Getting the first wrong wastes underwriting capacity on applications that will never clear the bar; getting the second wrong means adjusting lending strategy to a macro signal that may not matter.
