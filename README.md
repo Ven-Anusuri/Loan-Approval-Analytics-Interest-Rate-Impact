@@ -1,6 +1,6 @@
 # Loan Approval Analytics & Interest Rate Impact
 
-Analyzing what drives loan approval decisions, and whether Bank of Canada interest rates influence approval rates (2018–2026) and which specific group has to be focused to increase business. Built with **Python, SQL, and Power BI**.
+Analyzing what drives loan approval decisions, whether Bank of Canada interest rates influence approval rates (2018–2026), and which applicant segment the bank should target to grow lending. Built with **Python, SQL, and Power BI**.
 
 ---
 
@@ -17,11 +17,10 @@ A bank's lending team is flying blind on two decisions:
 
 ## Project Overview
 
-A bank's lending team faces two questions it can't answer by intuition: which applicants are worth the underwriting effort, and should approval volumes be expected to fall as the Bank of Canada raises rates? Getting the first wrong wastes underwriting capacity on applications that will never clear the bar; getting the second wrong means adjusting lending strategy to a macro signal that may not matter.
-This project answers both using ~5,000 loan applications joined with Bank of Canada overnight rate data (2018–2026):
+This project answers both questions using ~5,000 loan applications joined with Bank of Canada overnight rate data (2018–2026) — cleaned in Python, modeled in SQL, and delivered as a Power BI dashboard.
 
-Who to focus on: Approval follows a "two-gate system" — employment status and credit score. Applicants must clear both gates; loan amount is irrelevant to the decision. The growth segment is employed applicants with good credit (~72% approval), where acquisition spend is justified.
-Whether to fear the rate cycle: Approval rates held a narrow 21–25% band while the overnight rate swung from 0.3% to 4.7%. Borrower fundamentals beat macro conditions — lending strategy should stay anchored on applicant quality, not the rate environment.
+- **Who to focus on:** employed applicants with good credit (~72% approval). Loan amount never influenced the decision — this is the segment worth acquisition spend.
+- **Whether to fear the rate cycle:** no. Approval rates held a 21–25% band while the overnight rate swung from 0.3% to 4.7% — anchor strategy on applicant quality, not the macro environment.
 
 ---
 
